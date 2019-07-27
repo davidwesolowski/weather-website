@@ -1,5 +1,3 @@
-console.log('Javascript is running!');
-
 // fetch('http://puzzle.mead.io/puzzle').then((res) =>
 // {
 //     res.json().then((data) =>
