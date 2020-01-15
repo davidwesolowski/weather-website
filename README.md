@@ -1,1 +1,1 @@
-Weather app built with NodeJS
+Weather app built with Node.js
